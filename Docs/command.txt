@@ -1,0 +1,2 @@
+-> nest new <project_name> (create project with javascript)
+-> nest new <project_name> --strict (create project with typescript)
